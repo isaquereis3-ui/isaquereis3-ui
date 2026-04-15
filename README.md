@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Desenvolvedor Backend
 - 🌱 Aprendendo frameworks
-
+!-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
 <br>
@@ -119,4 +119,3 @@ Here are some ideas to get you started:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
 
 
--->
