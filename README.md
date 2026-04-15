@@ -1,10 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&section=header"/>
 
-<br>
-
-<div align="center">
-  <img height="150" src="https://i.imgur.com/3ZQ3Z4K.jpg"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/imagem.jpg" height="150"/>
+</p>
 
 <div align="center">
   
