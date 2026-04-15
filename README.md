@@ -3,10 +3,6 @@
 <br>
 
 <div align="center">
-  <img height="150" src="[https://br.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_11602236.htm#fromView=keyword&page=1&position=0&uuid=b432c8e2-1dfb-43ab-ac02-6d36191ec574&query=Github.png](https://i.imgur.com/TlgcTDL_d.webp?maxwidth=760&fidelity=grand).png"/>
-</div>
-
-<div align="center">
   
   <b>`アイザック`</b>
   <samp>
