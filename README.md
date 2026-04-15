@@ -25,16 +25,14 @@
       
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=isaquereis3-ui&rank_icon=github&show_icons=true&theme=dracula&count_private=true"> 
-  <img height="180" width= "300px" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=isaquereis3-ui&layout=compact&theme=dracula&count_private=true"> 
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=isaquereis3-ui&layout=compact&theme=dracula&count_private=true"> 
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquereis3-ui&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
@@ -70,10 +68,9 @@
   <br>
   <br>
 
-  <a href="mailto:kamillymedino2@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
-  <a href="https://www.instagram.com/km.medino/?next=%2F"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>
-  <a href="https://www.linkedin.com/in/kamilly-medino-b72a3b33a/"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
-  
+  <a href="isaquereis3@gmail.com"><img width="70" height="70" alt="Gmail" src="https://github.com/user-attachments/assets/939e2a8c-d89c-4e2f-8e4a-45d5d55dda4d" /></a>
+  <a href="https://www.instagram.com/zakezin/?next=%2F"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/8fe6a7e2-9e4b-49da-a39a-1949a2cec147" /></a>
+  <a href="www.linkedin.com/in/isaque-dos-reis"><img width="70" height="70" alt="Image" src="https://github.com/user-attachments/assets/b63805b1-9f73-43de-87fb-9b510d3674aa" /></a>
 </div>
 
 <div align="center">
