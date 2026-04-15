@@ -25,8 +25,8 @@
       
 <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=isaquereis3-ui&rank_icon=github&show_icons=true&theme=dracula&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=isaquereis3-ui&layout=compact&theme=dark&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquereis3-ui&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=isaquereis3-ui&layout=compact&theme=dracula&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaquereis3-ui&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
