@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/guitar-NWLwLYk#/t/anime" />
+  <img align="center" height="150" src="https://wall.alphacoders.com/big.php?i=1351642" />
 </div>
 
 <div align="center">
