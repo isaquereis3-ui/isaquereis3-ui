@@ -1,13 +1,3 @@
-## Olá, eu sou o isaquereis3-ui
-
-<!--
-**isaquereis3-ui/isaquereis3-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Desenvolvedor Backend
-- 🌱 Aprendendo frameworks
-!-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
 
 <br>
@@ -21,13 +11,13 @@ Here are some ideas to get you started:
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      Hi there! I'm <b>Isaque dos Reis</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;+I'm+a+student+of+System+Information+; Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -117,5 +107,3 @@ Here are some ideas to get you started:
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
-
-
