@@ -9,7 +9,7 @@
 
   <samp>
       <br>
-      <h1>Hi there! I'm <b>Isaque dos Reis</b></h1>
+      <h3>Hi there! I'm <b>Isaque dos Reis</b></h3>
   </samp>
 </div>
 
